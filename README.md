@@ -47,4 +47,4 @@ In this system, **Pinata** is used to interact with the IPFS network for uploadi
    pnpm run dev
    ```
 # The D-drive
-![Image](https://github.com/user-attachments/assets/8ad5b3a5-1bb8-40cc-9279-6b9c2f3c9137)
+![Image](https://github.com/user-attachments/assets/beeb735c-fcec-40e6-8829-297fac951134)
